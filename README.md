@@ -67,10 +67,13 @@ This project uses a **standard Microsoft sample dataset** intentionally to keep 
 
 ## Screenshots
 
-Add your images to `assets/` and update the links below.
+## Preview
 
-- Main Dashboard: `assets/main-dashboard.png`
-- Tooltip demo: `assets/tooltip-hover.png` or `assets/tooltip-demo.gif`
+![Main Dashboard](assets/main-dashboard.png)
+
+![Tooltip](assets/tooltip-hover.png)
+
+[![Watch the demo](assets/demo-thumbnail.png)](assets/demo.mp4)
 
 ---
 
