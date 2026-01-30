@@ -2,7 +2,7 @@
 
 An executive-style **Power BI KPI dashboard** built on Microsoft's sample retail-style dataset (the classic **Financial Sample**), designed to demonstrate end-to-end BI skills: **data modeling, DAX, Top-N analysis, slicers, and custom tooltip drill-ins**.
 
-- **Live demo:** [Open the interactive Power BI report]([https://app.powerbi.com/view?r=YOUR_LONG_TOKEN_HERE](https://app.powerbi.com/view?r=eyJrIjoiYWU5YTM4YjItNzQ0MC00MjA5LWI2NTgtODUzZjc3MDhjZGVmIiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9&pageName=c3e0b2b0800d1914666c))
+- **Live demo:** [Open the interactive Power BI report](https://app.powerbi.com/view?r=eyJrIjoiYWU5YTM4YjItNzQ0MC00MjA5LWI2NTgtODUzZjc3MDhjZGVmIiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9&pageName=c3e0b2b0800d1914666c)
 - **Portfolio page:** [Read the executive summary + embed](https://jamestsusanto.wordpress.com/power-bi-executive-kpi-dashboard-financial-performance/)
 
 ---
