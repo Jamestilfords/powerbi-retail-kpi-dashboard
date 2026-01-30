@@ -1,0 +1,17 @@
+# Power BI / Windows
+*.pbix~
+*.pbit~
+*.tmp
+*.bak
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Exports
+*.pdf
+*.pptx
+
+
+# Local notes
+notes/
